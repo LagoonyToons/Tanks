@@ -8,7 +8,7 @@ pg.init()
 #defined in options
 #SCREEN_X, SCREEN_Y = (1200, 700)
 
-pg.display.set_caption("Territory Null")
+pg.display.set_caption("Tanks")
 #screen = pg.display.set_mode((SCREEN_X, SCREEN_Y), pg.FULLSCREEN)
 #pg.mouse.set_visible(False)
 screen = pg.display.set_mode((SCREEN_X, SCREEN_Y))
